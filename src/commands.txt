@@ -1,0 +1,5 @@
+npm install ngf-bootstrap
+npm install toastr
+npm install ngf-server
+npm run server
+npm start
